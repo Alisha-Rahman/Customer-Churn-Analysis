@@ -102,6 +102,7 @@ The project follows a repeatable data analysis workflow:
 
 *Dashboard updates require rerunning the relevant processing steps and refreshing the report; this is a repeatable workflow rather than a fully unattended, real-time pipeline.*
 
+---
 
 ## 🎯 Skills Demonstrated
 
@@ -123,9 +124,12 @@ This project demonstrates how Python, SQL, and Power BI can be combined to analy
 It also demonstrates the use of a repeatable data preparation and dashboard update workflow for maintaining analytical reports as source data changes.
 
 ---
+
 ## 🚀 Dashboard Preview
 
 *An interactive Power BI dashboard for exploring customer churn patterns, retention performance, and revenue metrics.*
 
 ![Customer Churn Analysis Dashboard]
+
+---
 
