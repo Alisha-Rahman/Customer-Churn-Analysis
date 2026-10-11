@@ -129,7 +129,7 @@ It also demonstrates the use of a repeatable data preparation and dashboard upda
 
 *An interactive Power BI dashboard for exploring customer churn patterns, retention performance, and revenue metrics.*
 
-![Customer Churn Analysis Dashboard]
+![Customer Churn Analysis Dashboard](https://github.com/Alisha-Rahman/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
